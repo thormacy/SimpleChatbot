@@ -25,7 +25,7 @@ just half a minute . i 'll be there .
 just half a minute . i 've got to .  
 just half a minute . i 'll see you later .  
 
->Ae you crazy?  
+>Are you crazy?  
 it 's all right . i do n't know .  
 it 's all right . i do n't understand .  
 it 's all right . i guess . yes .  
