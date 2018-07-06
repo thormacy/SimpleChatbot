@@ -2,7 +2,7 @@
 Simple Chatbot using seq2seq model and attention   
 python3.5 + tensorflow-gpu1.5.0 + nltk3.3 + tqdm4..23.4 + numpy1.14.5  
 
-Dataset is Cornell Movie Dialos  
+Dataset is Cornell Movie Dialogues dataset.
 
 Reference:  
 @author Conchylicultor DeepQA https://github.com/Conchylicultor/DeepQA
