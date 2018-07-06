@@ -18,14 +18,14 @@ i do n't know . sometime . maybe .
 i do n't know . sometime . over . .  
 i do n't know . sometime . over . here  
 
->What time is it?
+>What time is it?  
 just half a minute . i 'll take it .  
 just half a minute . i 'll call you .  
 just half a minute . i 'll be there .  
 just half a minute . i 've got to .  
 just half a minute . i 'll see you later .  
 
->Ae you crazy?
+>Ae you crazy?  
 it 's all right . i do n't know .  
 it 's all right . i do n't understand .  
 it 's all right . i guess . yes .  
