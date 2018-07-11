@@ -31,4 +31,6 @@ what are you going to do , dad ?!
 what are you going to do ? shoot him ?  
 what are you going to do ? tell him .  
 
-As shown above, the replies appear to have some basic logics. However, the answers and question are not quite matched. Sometimes answers are simply repeated words, which are mainly caused by unknown input words. I will test biger dataset and vocab dictionary latter and hope it will have a better performance. 
+As shown above, the replies appear to have some basic logics. However, the answers and question are not quite matched. Sometimes answers are simply repeated words, which are mainly caused by unknown input words. I will test biger dataset and vocab dictionary latter and hope it will have a better performance.  
+
+Notice: this model can't tell capital, eg. What is unknown
