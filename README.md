@@ -18,18 +18,17 @@ i do n't know . sometime . maybe .
 i do n't know . sometime . over . .  
 i do n't know . sometime . over . here  
 
->What time is it?  
-just half a minute . i 'll take it .  
-just half a minute . i 'll call you .  
-just half a minute . i 'll be there .  
-just half a minute . i 've got to .  
-just half a minute . i 'll see you later .  
+>are you ok?  
+yes . i 'm sorry . i 'm sorry .
+yes . i 'm sorry . i was dirvorced .
+yes i 'm sorry . i 'm sorry . i
+yes i 'm sorry . i did n't mean to
 
->Are you crazy?  
-it 's all right . i do n't know .  
-it 's all right . i do n't understand .  
-it 's all right . i guess . yes .  
-it 's all right . i guess . it 's .
-it 's all right . i guess . i ...
+>are you crazy?  
+what are you going to do ? tell me .
+what are you going to do ? forget it .
+what are you going to do , dad ?!
+what are you going to do ? shoot him ?
+what are you going to do ? tell him .
 
 As shown above, the replies appear to have some basic logics. However, the answers and question are not quite matched. Sometimes answers are simply repeated words, which are mainly caused by unknown input words. I will test biger dataset and vocab dictionary latter and hope it will have a better performance. 
